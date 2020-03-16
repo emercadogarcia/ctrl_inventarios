@@ -3,6 +3,8 @@
 * @author evilnapsis
 **/
 
+/* para ingresar a la APP:  http://localhost/ctrl_inventarios/ */
+
 define("ROOT", dirname(__FILE__));
 
 $debug= false;
